@@ -20,3 +20,6 @@ docker run -p 8000:8000 disease-prediction
 
 ## API Docs
 Visit http://localhost:8000/docs
+## Updates
+- Added Docker support
+- Model accuracy: ~85%
