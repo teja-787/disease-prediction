@@ -23,3 +23,4 @@ Visit http://localhost:8000/docs
 ## Updates
 - Added Docker support
 - Model accuracy: ~85%
+## Contributing
